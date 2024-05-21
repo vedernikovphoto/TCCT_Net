@@ -1,0 +1,7 @@
+einops==0.8.0
+matplotlib==3.6.2
+numpy==1.23.4
+pandas==1.5.2
+PyWavelets==1.4.1
+torch==1.13.0
+tqdm==4.64.1
